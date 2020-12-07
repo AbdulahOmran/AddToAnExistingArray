@@ -1,5 +1,5 @@
 import java.util.Scanner; //Allows me to import scanner
-// into the code, allowing me to receive user input
+// into the code, allowing me to receive user input 
 
 class Main {
   public static void main(String[] args) {
